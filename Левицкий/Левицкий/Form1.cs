@@ -71,7 +71,7 @@ namespace Левицкий
 
         private void comboBoxWork_SelectedIndexChanged(object sender, EventArgs e)
         {
-            progressBar3.Visible = false;
+            Console.WriteLine();
             progressBar4.Visible = false;
             progressBar5.Visible = false;
 
