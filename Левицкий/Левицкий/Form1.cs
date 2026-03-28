@@ -22,7 +22,7 @@ namespace Шахова
             InitializeComponent();
             comboBoxWork.Items.AddRange(new string[]
             {
-                    "Буквы",
+                    "БОЛЬШИЕБУКВЫ",
                     "Числа",
                     "Даты"
             });
