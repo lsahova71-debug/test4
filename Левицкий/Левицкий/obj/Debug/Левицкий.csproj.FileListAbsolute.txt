@@ -1,0 +1,10 @@
+C:\Users\yerok\source\repos\Левицкий\Левицкий\bin\Debug\Левицкий.exe.config
+C:\Users\yerok\source\repos\Левицкий\Левицкий\bin\Debug\Левицкий.exe
+C:\Users\yerok\source\repos\Левицкий\Левицкий\bin\Debug\Левицкий.pdb
+C:\Users\yerok\source\repos\Левицкий\Левицкий\obj\Debug\Левицкий.csproj.AssemblyReference.cache
+C:\Users\yerok\source\repos\Левицкий\Левицкий\obj\Debug\Левицкий.Form1.resources
+C:\Users\yerok\source\repos\Левицкий\Левицкий\obj\Debug\Левицкий.Properties.Resources.resources
+C:\Users\yerok\source\repos\Левицкий\Левицкий\obj\Debug\Левицкий.csproj.GenerateResource.cache
+C:\Users\yerok\source\repos\Левицкий\Левицкий\obj\Debug\Левицкий.csproj.CoreCompileInputs.cache
+C:\Users\yerok\source\repos\Левицкий\Левицкий\obj\Debug\Левицкий.exe
+C:\Users\yerok\source\repos\Левицкий\Левицкий\obj\Debug\Левицкий.pdb
