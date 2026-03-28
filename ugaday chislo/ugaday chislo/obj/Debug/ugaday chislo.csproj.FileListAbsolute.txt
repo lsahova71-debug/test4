@@ -1,0 +1,7 @@
+\\10.3.10.1\аудитория 103\Учебная\ИСП-204\шахова л, стафеева а\ugaday chislo\ugaday chislo\bin\Debug\ugaday chislo.exe.config
+\\10.3.10.1\аудитория 103\Учебная\ИСП-204\шахова л, стафеева а\ugaday chislo\ugaday chislo\bin\Debug\ugaday chislo.exe
+\\10.3.10.1\аудитория 103\Учебная\ИСП-204\шахова л, стафеева а\ugaday chislo\ugaday chislo\bin\Debug\ugaday chislo.pdb
+\\10.3.10.1\аудитория 103\Учебная\ИСП-204\шахова л, стафеева а\ugaday chislo\ugaday chislo\obj\Debug\ugaday chislo.csprojAssemblyReference.cache
+\\10.3.10.1\аудитория 103\Учебная\ИСП-204\шахова л, стафеева а\ugaday chislo\ugaday chislo\obj\Debug\ugaday chislo.csproj.CoreCompileInputs.cache
+\\10.3.10.1\аудитория 103\Учебная\ИСП-204\шахова л, стафеева а\ugaday chislo\ugaday chislo\obj\Debug\ugaday chislo.exe
+\\10.3.10.1\аудитория 103\Учебная\ИСП-204\шахова л, стафеева а\ugaday chislo\ugaday chislo\obj\Debug\ugaday chislo.pdb
