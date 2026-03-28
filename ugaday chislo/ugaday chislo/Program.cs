@@ -10,7 +10,7 @@ namespace ugaday_chislo
     {
         static void Main(string[] args)
         {
-            Random random = new Random();
+            Random random = old Random();
             int number = random.Next(1, 100);
             bool guessed = false;
             Console.WriteLine("Добро пожаловать в игру 'угадай число!' ");
