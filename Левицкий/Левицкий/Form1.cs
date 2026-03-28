@@ -26,7 +26,7 @@ namespace Левицкий
                     "Числа",
                     "Даты"
             });
-            progressBar3.Visible = false;
+            progressBar3.Visible = true;
             progressBar4.Visible = false;
             progressBar5.Visible = false;
         }
