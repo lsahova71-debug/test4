@@ -11,7 +11,7 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Mac.Form;
 
-namespace Левицкий
+namespace Шахова
 {
     public partial class Form1 : Form
     {
