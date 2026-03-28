@@ -52,7 +52,7 @@ namespace Левицкий
         {
             if (string.IsNullOrEmpty(fileText))
             {
-                MessageBox.Show("Выберите файл");
+                MessageBox.Show("Измените папку");
                 return;
             }
 
