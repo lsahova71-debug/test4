@@ -22,7 +22,7 @@ namespace Левицкий
             InitializeComponent();
             comboBoxWork.Items.AddRange(new string[]
             {
-                    "Слова",
+                    "Буквы",
                     "Числа",
                     "Даты"
             });
