@@ -26,7 +26,7 @@ namespace Шахова
                     "Числа",
                     "Даты"
             });
-            progressBar3.Visible = true;
+            progressBar3.Visible = false;
             progressBar4.Visible = false;
             progressBar5.Visible = false;
         }
